@@ -23,7 +23,7 @@
 				<a href="https://nikos7887.github.io/nikdouv/">Δουβαλέτας Νικόλαος</a>
 			</li>
 		</ol>
-		<!-- <footer>
+		<footer>
 			<p class="readme">
 				This webring is an attempt to inspire artists &amp; developers to build their websites and share traffic amongst each other. The ring welcomes <b>hand-crafted wikis and portfolios</b>.
 			</p>
@@ -33,7 +33,7 @@
 				Found a broken link, please <a href="https://github.com/XXIIVV/webring/issues/new" target="_blank">report it</a>.<br /><br />
 				<a href="#icons">Show icons</a> | <a href="#twtxt">Show twtxt</a> | <a href="#rss">Show rss</a><span class="hide"> | <a href="#">Hide Feeds</a></span> | <a href="https://lieu.cblgh.org/random" target="_blank">Random</a>
 			</p>
-			<!-- <img id="icon" src="icon.black.large.svg" alt="icon"/> -->
+			<!-- <img id="icon" src="icon.black.large.svg" alt="icon"/>
 		</footer>
 	</body>
 </html>
