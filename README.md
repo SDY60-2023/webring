@@ -1,3 +1,4 @@
+# Webring
 <!DOCTYPE html>
 <html lang="en" id="rss">
 	<head>
@@ -5,16 +6,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="con" type="image/png" sizes="100x100" href="favicon.ico">
 		<link rel="apple-touch-icon" type="image/png" sizes="100x100" href="favicon.ico">
-		<title>Webring</title>
 	</head>
 	<body id="twtxt">
 		<ol id="icons">
-			<li data-lang="en" id="xxiivv">
-				<a href="https://wiki.xxiivv.com">xxiivv</a>
-				<a href="https://wiki.xxiivv.com/links/tw.txt" class="twtxt">twtxt</a>
-				<a href="https://wiki.xxiivv.com/links/rss.xml" class="rss">rss</a>
-				<img src="https://wiki.xxiivv.com/media/services/button.gif"/>
-			  </li>
 			<li data-lang="en" id="gkalog">
 				<a href="https://gkalogeitonas.github.io/online-cv/">Καλογείτονας Γεώργιος</a>
 			</li>
@@ -22,7 +16,7 @@
                              <a href="https://github.com/Maurphal/Maurphal/">Δηλαβέρης Αλέξανδρος</a>
 			</li>
 		</ol>
-		<footer>
+		<!-- <footer>
 			<p class="readme">
 				This webring is an attempt to inspire artists &amp; developers to build their websites and share traffic amongst each other. The ring welcomes <b>hand-crafted wikis and portfolios</b>.
 			</p>
