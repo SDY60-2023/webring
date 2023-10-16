@@ -20,7 +20,7 @@
 			</li>
 			</li>
 			<li data-lang="en" id="nikos7887">
-				<a href="https://github.com/nikos7887/nikdouv/">Δουβαλέτας Νικόλαος</a>
+				<a href="https://nikos7887.github.io/nikdouv/">Δουβαλέτας Νικόλαος</a>
 			</li>
 		</ol>
 		<!-- <footer>
