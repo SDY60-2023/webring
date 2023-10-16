@@ -15,6 +15,10 @@
 			<li data-lang="en" id="Maurphal">
                              <a href="https://github.com/Maurphal/Maurphal/">Δηλαβέρης Αλέξανδρος</a>
 			</li>
+			</li>
+			<li data-lang="en" id="Maurphal">
+                             <a href="https://nikos7887.github.io/nikdouv/">Δουβαλέτας Νικόλαος</a>
+			</li>
 		</ol>
 		<!-- <footer>
 			<p class="readme">
