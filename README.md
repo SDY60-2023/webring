@@ -1,3 +1,17 @@
+#### Adding your RSS/TWTXT
+
+To add an extra feed to your entry, add them within your `<li>` tag as follow:
+
+```html
+<li data-lang="en" id="xxiivv">
+  <a href="https://wiki.xxiivv.com">xxiivv</a>
+  <a href="https://wiki.xxiivv.com/links/tw.txt" class="twtxt">twtxt</a>
+  <a href="https://wiki.xxiivv.com/links/rss.xml" class="rss">rss</a>
+  <img src="https://wiki.xxiivv.com/media/services/button.gif"/>
+</li>
+```
+https://sdy60-2023.github.io/webring/
+
 # Webring
 <!DOCTYPE html>
 <html lang="en" id="rss">
@@ -23,6 +37,7 @@
 				<a href="https://nikos7887.github.io/nikdouv/">Δουβαλέτας Νικόλαος</a>
 			</li>
 		</ol>
+		<!--
 		<footer>
 			<p class="readme">
 				This webring is an attempt to inspire artists &amp; developers to build their websites and share traffic amongst each other. The ring welcomes <b>hand-crafted wikis and portfolios</b>.
@@ -35,5 +50,6 @@
 			</p>
 			<!-- <img id="icon" src="icon.black.large.svg" alt="icon"/>
 		</footer>
+			--!>
 	</body>
 </html>
