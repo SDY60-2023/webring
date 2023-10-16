@@ -1,6 +1,6 @@
 #### Adding your RSS/TWTXT
 
-To add an extra feed to your entry, add them within your `<li>` tag as follow:
+To add an extra feed to your entry, add them to index.html within your `<li>` tag as follow:
 
 ```html
 <li data-lang="en" id="xxiivv">
