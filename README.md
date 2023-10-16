@@ -16,7 +16,7 @@
                              <a href="https://github.com/Maurphal/Maurphal/">Δηλαβέρης Αλέξανδρος</a>
 			</li>
 			<li data-lang="en" id="giorgos-christou">
-				<a href="https://giorgos-christou.github.io/best-resume-ever/)/">Χρήστου Γεώργιος</a>
+				<a href="https://giorgos-christou.github.io/best-resume-ever/">Χρήστου Γεώργιος</a>
 			</li>
 		</ol>
 		<!-- <footer>
