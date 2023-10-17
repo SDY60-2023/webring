@@ -39,6 +39,9 @@ https://sdy60-2023.github.io/webring/
 			<li data-lang="en" id="odyszagoras">
 				<a href="https://github.com/odyszagoras/Odysseas-Zagoras-CV/">Ζαγόρας Οδυσσέας</a>
 			</li>
+			<li data-lang="en" id="std159312">
+				<a href="https://std159312.github.io">Αλτανόπουλος Ιωάννης</a>
+			</li>
 		</ol>
 		<!--
 		<footer>
