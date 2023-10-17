@@ -36,6 +36,9 @@ https://sdy60-2023.github.io/webring/
 			<li data-lang="en" id="nikos7887">
 				<a href="https://nikos7887.github.io/nikdouv/">Δουβαλέτας Νικόλαος</a>
 			</li>
+			<li data-lang="en" id="std159312">
+				<a href="https://std159312.github.io">Αλτανόπουλος Ιωάννης</a>
+			</li>
 		</ol>
 		<!--
 		<footer>
