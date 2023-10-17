@@ -42,6 +42,9 @@ https://sdy60-2023.github.io/webring/
 			<li data-lang="en" id="std159312">
 				<a href="https://std159312.github.io">Αλτανόπουλος Ιωάννης</a>
 			</li>
+			<li data-lang="en" id="ioannistheodoropoulos">
+				<a href="https://ioannistheodoropoulos.github.io">Θεοδωρόπουλος Ιωάννης</a>
+			</li>
 		</ol>
 		<!--
 		<footer>
