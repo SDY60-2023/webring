@@ -50,8 +50,7 @@ https://sdy60-2023.github.io/webring/
 			</li>
                         <li data-lang="en" id="std133524">
 			   <a href="https://std133524.github.io/simple-cv/"> Νίκος Κόκκος</a>
-			</li>
-			
+			</li>		
 		</ol>
 		<!--
 		<footer>
@@ -66,6 +65,6 @@ https://sdy60-2023.github.io/webring/
 			</p>
 			<!-- <img id="icon" src="icon.black.large.svg" alt="icon"/>
 		</footer>
-			--!>
+		--!>
 	</body>
 </html>
