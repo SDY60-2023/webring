@@ -48,6 +48,9 @@ https://sdy60-2023.github.io/webring/
    			<li data-lang="en" id="konssven">
 				<a href="https://konssven.github.io/">Σβεντζούρης Κωνσταντίνος</a>
 			</li>
+                        <li data-lang="en" id="std133524">
+			   <a href="https://std133524.github.io/simple-cv/"> Νίκος Κόκκος</a>
+			</li>
 			
 		</ol>
 		<!--
