@@ -52,8 +52,11 @@ https://sdy60-2023.github.io/webring/
                         <li data-lang="en" id="std133524">
 			   <a href="https://std133524.github.io/simple-cv/"> Νίκος Κόκκος</a>
 			</li>		
-  <li data-lang="en" id="iparthenios">
+ 			 <li data-lang="en" id="iparthenios">
 				<a href="https://iparthenios.github.io/online-cv/">Παρθένιος Ηλίας</a>
+			</li>
+   			<li data-lang="en" id="Asinapis">
+				<a href="https://asinapis13.github.io/index.html">Σινάπης Άγγελος</a>
 			</li>
 		</ol>
 		<!--
