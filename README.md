@@ -45,12 +45,16 @@ https://sdy60-2023.github.io/webring/
 			<li data-lang="en" id="ioannistheodoropoulos">
 				<a href="https://ioannistheodoropoulos.github.io">Θεοδωρόπουλος Ιωάννης</a>
 			</li>
+
    			<li data-lang="en" id="konssven">
 				<a href="https://konssven.github.io/">Σβεντζούρης Κωνσταντίνος</a>
 			</li>
                         <li data-lang="en" id="std133524">
 			   <a href="https://std133524.github.io/simple-cv/"> Νίκος Κόκκος</a>
 			</li>		
+  <li data-lang="en" id="iparthenios">
+				<a href="https://iparthenios.github.io/online-cv/">Παρθένιος Ηλίας</a>
+			</li>
 		</ol>
 		<!--
 		<footer>
