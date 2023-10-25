@@ -55,6 +55,9 @@ https://sdy60-2023.github.io/webring/
   <li data-lang="en" id="iparthenios">
 				<a href="https://iparthenios.github.io/online-cv/">Παρθένιος Ηλίας</a>
 			</li>
+   				<li data-lang="en" id="Asinapis13">
+			   <a href="https://asinapis13.github.io/index.html"> Άγγελος Σινάπης</a>
+			</li>	
 		</ol>
 		<!--
 		<footer>
