@@ -45,6 +45,9 @@ https://sdy60-2023.github.io/webring/
 			<li data-lang="en" id="ioannistheodoropoulos">
 				<a href="https://ioannistheodoropoulos.github.io">Θεοδωρόπουλος Ιωάννης</a>
 			</li>
+			<li data-lang="en" id="iparthenios">
+				<a href="https://iparthenios.github.io/online-cv/">Παρθένιος Ηλίας</a>
+			</li>
 		</ol>
 		<!--
 		<footer>
